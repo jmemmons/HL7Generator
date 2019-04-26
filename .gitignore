@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HL7Generator/.vs/HL7Generator/v15
+/HL7Generator/HL7Generator/bin/Debug/netstandard2.0
+/HL7Generator/HL7Generator/obj
+/HL7Generator/HL7Generator.Model.V251/bin/Debug/netstandard2.0
+/HL7Generator/HL7Generator.Model.V251/obj
+/HL7Generator/HL7Generator.Tests/bin/Debug
+/HL7Generator/HL7Generator.Tests/obj/Debug
+/HL7Generator/packages
